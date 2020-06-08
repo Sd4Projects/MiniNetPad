@@ -3,9 +3,11 @@
 This project is licensed under CERN Open Hardware Licence v.1.2 http://ohwr.org/cernohl
 
 Project designed with KiCad Ver 5.1.2
+
 Zip file with design files: MiniNetPad_V0.01a.zip
 
 Schematic file: MiniNetPad_V0.01a.SCH.pdf
+
 BOM file: MiniNetPad_V0.01a.BOM.pdf
 
 Bare board can be odered from OSH Park. https://oshpark.com/shared_projects/rFaZbuVc with project name MiniNetPad_V0.kicad_pcb or use source project to make files and order from whoever you want.
@@ -38,6 +40,7 @@ Bare Board
 ![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/01_board_of_top.jpg?raw=true "boardtop")
 
 Building the board.
+
   I use LOW TEMP solder paste to give a bit more space for the top end temperature. I use a modified toaster oven for reflow.
   
   I do reflow twice.
@@ -54,6 +57,7 @@ Items not done with reflow, hand soldered after reflows.
   SWD Jack, PowerJack, 3V Select Switch, 16 and 20 pin jacks, RJ45 Jack, Buzzer, Buzzer Pot, Reset Switch, TFT Jack.
 
 Config solder jumpers on bottom of board.
+
 ![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/07_board_bottom_pads.jpg?raw=true "boardBottomjumpers")
 
 The flash chip can be configured 2 ways - Arduino or CircuitPython
@@ -65,6 +69,7 @@ The MiniNetPad uses Arduino ZERO firmware when using Arduino IDE so you flash th
 For MiniNetPad when programing with Arduino IDE, use Arduino Zero (Native USB Port) for board type.
 
 3D printed PLA case was designed with Alibre 2018 CAD,
+
   Original source file MiniNetPadCaseV01a.AD_PRT and stl file MiniNetPadCaseV01a.stl posted.
 
 Software test program uses TestMiniNetPadV01a.ino
@@ -72,6 +77,7 @@ Software test program uses TestMiniNetPadV01a.ino
 ![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/15_arduino_testcode.jpg?raw=true "testcode")
 
 If you wish to run CircuitPython.
+
   Check circuitpython_notes directory for info on installing circuitpython.
   
   I have only test circuit python blink program using the mu-editor, a lot more testing is needed.
