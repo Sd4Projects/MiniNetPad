@@ -88,8 +88,15 @@ I will be posting 2 additional IO boards that plug into the expansion pins.
 
 ![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/17_expansion_protoboard.jpg?raw=true "expansion_protoboard")
 
+MiniProtoBoardV01a bare board can be odered from OSH Park. https://oshpark.com/shared_projects/MGMJdXwL with project name MiniProtoBoardV01a.kicad_pcb
+  or use source project to make files and order from whoever you wnat.
+
+
   A Tboard that plugs into a breadboard.
   
 ![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/18_expansion_tboard.jpg?raw=true "expansion_tboard")
+
+tExpJackV01a bare board can be odered from OSH Park. https://oshpark.com/shared_projects/LmE7I2u6 with project name tExpJackV01a.kicad_pcb
+  or use source project to make files and order from whoever you wnat.
 
 Until more info is added here, check the MiniNetPad_Pics directory.
