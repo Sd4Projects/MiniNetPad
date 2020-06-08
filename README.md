@@ -1,4 +1,4 @@
-# MiniNetPad
+# MiniNetPad  First post 8 June 2020
 
 This project is licensed under CERN Open Hardware Licence v.1.2 http://ohwr.org/cernohl
 
