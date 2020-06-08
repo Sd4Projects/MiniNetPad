@@ -2,6 +2,8 @@
 
 This project is licensed under CERN Open Hardware Licence v.1.2 http://ohwr.org/cernohl
 
+Why MiniNetPad? As I was building hobby projects I found I needed some common features when using Arduino, so I created MiniNetPad to solve that issue. Now MiniNetPad can be reused from project to project.
+
 Project designed with KiCad Ver 5.1.2
 
 Zip file with design files: MiniNetPad_V0.01a.zip
@@ -10,7 +12,7 @@ Schematic file: MiniNetPad_V0.01a.SCH.pdf
 
 BOM file: MiniNetPad_V0.01a.BOM.pdf
 
-Bare board can be odered from OSH Park. https://oshpark.com/shared_projects/rFaZbuVc with project name MiniNetPad_V0.kicad_pcb or use source project to make files and order from whoever you want.
+Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/rFaZbuVc with project name MiniNetPad_V0.kicad_pcb or use source files and order from whoever you want.
 
 MiniNetPad features.
  1. Uses Arduino ZERO boot firmware.
