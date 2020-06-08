@@ -1,0 +1,34 @@
+*** To install circuitpython. ***
+1. Set solder pad jumpers for flash, see Flash_Config_Options.jpg
+2. Flash circuitpython.??.bin file with ATMEL-ICE and AtemStudio program.
+2a. See circuitpython_bin1.png
+2b. See circuitpython_bin2.png
+3. After flash METROBOOT disk should appear.
+4. Drag and drop circuitpython.??.uf2 file into METROBOOT
+5. Circuit python should now work via CIRCUITPY.
+Note: I have only tested circuitpython blink.
+
+
+*** To uninstall circuitpython. ***
+If you flashed MiniNetPad for CircuitPython and
+deside to reflash board with Arduino ZERO
+you may see the flowing error:
+======================================================
+Open On-Chip Debugger 0.10.0+dev-gf0767a31 (2018-06-11-13:48)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+debug_level: 0
+none separate
+adapter speed: 400 kHz
+cortex_m reset_config sysresetreq
+in procedure 'init' 
+in procedure 'ocd_bouncer'
+
+Error while burning bootloader.
+======================================================
+This is what I have done to overcome the error.
+1. Upload arduino blink program first via arduino IDE, then reboot board.
+2. Attach ATMEL-ICE and burn ZERO firmware now.
+
+Remember to change flash chip solder jumpers back to Adruino mode.
