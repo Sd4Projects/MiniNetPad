@@ -82,7 +82,9 @@ If you wish to run CircuitPython.
   
   I have only test circuit python blink program using the mu-editor, a lot more testing is needed.
 
-I will be posting 2 additional IO boards that plug into the expansion pins.
+There is 2 additional IO boards that plug into the expansion pins.
+
+Source files about the boards is in the ExpansionBoards diretory.
 
   A small prototype board.
 
