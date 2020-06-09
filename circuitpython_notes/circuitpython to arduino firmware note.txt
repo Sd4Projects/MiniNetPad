@@ -1,6 +1,6 @@
 *** To install circuitpython. ***
 1. Set solder pad jumpers for flash, see Flash_Config_Options.jpg
-2. Flash circuitpython.??.bin file with ATMEL-ICE and AtemStudio program.
+2. Flash bootloader-metro_m0-v3.7.0.bin file with ATMEL-ICE and AtemStudio program.
 2a. See circuitpython_bin1.png
 2b. See circuitpython_bin2.png
 3. After flash METROBOOT disk should appear.
