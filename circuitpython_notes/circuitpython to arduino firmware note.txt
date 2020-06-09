@@ -7,7 +7,7 @@
 4. Drag and drop circuitpython.??.uf2 file into METROBOOT
 5. Circuit python should now work via CIRCUITPY.
 Note: I have only tested circuitpython blink.
-
+For more info on loading bootloader check Adafruit doc how-to-program-samd-bootloaders.pdf
 
 *** To uninstall circuitpython. ***
 If you flashed MiniNetPad for CircuitPython and
