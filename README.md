@@ -2,6 +2,8 @@
 
 This project is licensed under CERN Open Hardware Licence v.1.2 http://ohwr.org/cernohl
 
+Most of this build info will be moved into WiKi.
+
 Why MiniNetPad? As I was building hobby projects I found I needed some common features when using Arduino, so I created MiniNetPad to solve that issue. Now MiniNetPad can be reused from project to project.
 
 Project designed with KiCad Ver 5.1.2
