@@ -86,23 +86,4 @@ If you wish to run CircuitPython.
   
   I have only test circuit python blink program using the mu-editor, a lot more testing is needed.
 
-There are 2 additional IO boards that plug into the expansion pins.
-
-Source files about the boards is in the ExpansionBoards diretory.
-
-  A small prototype board.
-
-![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/17_expansion_protoboard.jpg?raw=true "expansion_protoboard")
-
-MiniProtoBoardV01a bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/MGMJdXwL with project name MiniProtoBoardV01a.kicad_pcb
-  or use source project to make files and order from whoever you wnat.
-
-
-  A Tboard that plugs into a breadboard.
-  
-![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/18_expansion_tboard.jpg?raw=true "expansion_tboard")
-
-tExpJackV01a bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/LmE7I2u6 with project name tExpJackV01a.kicad_pcb
-  or use source project to make files and order from whoever you wnat.
-
 Until more info is added here, check the MiniNetPad_Pics directory.
