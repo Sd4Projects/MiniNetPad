@@ -39,7 +39,7 @@ This project is an alpha level work in progress at this point in time. I expect 
 
 Please, take time and study the schematic before building MiniNetPad.
 
-Bare Board
+Bare Board.
 
 ![alt text](https://github.com/Sd4Projects/MiniNetPad/blob/master/MiniNetPad_Pics/01_board_of_top.jpg?raw=true "boardtop")
 
